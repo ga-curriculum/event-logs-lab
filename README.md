@@ -9,8 +9,13 @@ In this lab, you'll get hands-on practice working with some key system logs.
 
 ## Content
 
-- [Exploring MacOS Event Logs](./exploring-logs/README.md)
-- [Exploring Windows Event Logs](./exploring-windows-logs/README.md)
+- [Explore macOS Event Logs](./explore-macos-event-logs/README.md)
+- [Explore Windows Event Logs](./explore-windows-event-logs/README.md)
+
+## Rubrics
+
+- [ITB - IT Bootcamp Rubric](./rubrics/itb.md)
+- [Fallback Rubric](./rubrics/fallback.md)
 
 ## Internal
 

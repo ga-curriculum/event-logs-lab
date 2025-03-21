@@ -1,6 +1,6 @@
 <h1>
   <span class="headline">Event Logs Lab</span>
-  <span class="subhead">Exploring MacOS Logs</span>
+  <span class="subhead">Explore macOS Event Logs</span>
 </h1>
 
 In this lab, you'll get hands-on practice working with some key system logs in macOS. The goal is to familiarize yourself with where to find important logs, how to search and filter log entries, and gain experience spotting notable events that could indicate issues. Building comfort with the native macOS log tools and structure is a valuable skill for supporting and troubleshooting Mac systems.
@@ -19,7 +19,7 @@ Some key log sources include:
 
 Other logs capture events from specific subsystems like WiFi, Bluetooth, iCloud, and Time Machine. The Console app lets you view these varied logs, filter and search entries, and save queries for notable events.
 
-## Accessing the Logs
+## Accessing the logs
 
 - Open the Console app (Applications > Utilities > Console)
 
@@ -41,7 +41,7 @@ Other logs capture events from specific subsystems like WiFi, Bluetooth, iCloud,
 
 - Explore the crash reports in the Crash Reports > User section
 
-## Example Events to Look For
+## Example events to look for
 
 **system.log**
 
@@ -52,7 +52,6 @@ Other logs capture events from specific subsystems like WiFi, Bluetooth, iCloud,
 
 - Failed logins: "Failed to authenticate user"
 - Account lockouts: "Account locked for user"
-
 
 **Crash reports**
 

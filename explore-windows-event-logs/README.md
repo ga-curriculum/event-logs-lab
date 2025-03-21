@@ -1,6 +1,6 @@
 <h1>
   <span class="headline">Event Logs Lab</span>
-  <span class="subhead">Exploring Windows Logs</span>
+  <span class="subhead">Explore Windows Event Logs</span>
 </h1>
 
 The goal of this hands-on lab is for you to gain experience navigating and analyzing the built-in Windows Event Logs. You'll learn where to access key logs, how to filter log entries to find relevant information, and practice identifying potential issues in the logs. Building skill in interpreting these native Windows logs is valuable for troubleshooting and monitoring the health of your systems.
@@ -18,7 +18,7 @@ Windows Event Logs are a centralized repository for logging messages from the op
 Other logs, like the Setup, Forwarded Events, and individual application logs provide additional insights. Regularly reviewing key logs helps you proactively spot emerging problems, investigate issues, and audit system activities.
 Steps
 
-## Accessing the Logs
+## Accessing the logs
 
 - Open the Event Viewer:
   - Press Win + R to open the Run dialog
@@ -45,7 +45,7 @@ Steps
 If you see an interesting or concerning event, double-click it to open the event properties window with more details
 Check the Application and Services Logs for events from specific programs or Windows components
 
-## Example Events to Look For
+## Example events to look for
 
 **Application Log**
 

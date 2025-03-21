@@ -2,16 +2,16 @@ import "https://pages.git.generalassemb.ly/modular-curriculum-all-courses/univer
 
 // Add microlessons here, in the order they should be delivered
 
-exploringOsLogs = new Template.Microlesson {
-  friendlyName = "Exploring MacOS Event Logs"
-  dirName = "exploring-logs"
+exploreMacOsEventLogs = new Template.Microlesson {
+  friendlyName = "Explore macOS Event Logs"
+  dirName = "explore-macos-event-logs"
   type = "Content"
   videoUrl = ""
 }
 
-exploringWindowsLogs = new Template.Microlesson {
-  friendlyName = "Exploring Windows Event Logs"
-  dirName = "exploring-windows-logs"
+exploreWindowsEventLogs = new Template.Microlesson {
+  friendlyName = "Explore Windows Event Logs"
+  dirName = "explore-windows-event-logs"
   type = "Content"
   videoUrl = ""
 }

@@ -14,14 +14,14 @@
   },
   "courses": [
     {
-      "name": "fallback",
+      "name": "itb",
       "courseAcronym": "",
       "courseFullName": "",
       "logoUrl": "",
       "microlessons": [
         {
-          "friendlyName": "Exploring MacOS Event Logs",
-          "dirName": "exploring-logs",
+          "friendlyName": "Explore macOS Event Logs",
+          "dirName": "explore-macos-event-logs",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -30,8 +30,8 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "Exploring MacOS Event Logs",
-          "dirName": "exploring-logs",
+          "friendlyName": "Explore Windows Event Logs",
+          "dirName": "explore-windows-event-logs",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -63,14 +63,14 @@
       "isActivityTimeShown": true
     },
     {
-      "name": "itb",
+      "name": "fallback",
       "courseAcronym": "",
       "courseFullName": "",
       "logoUrl": "",
       "microlessons": [
         {
-          "friendlyName": "Exploring MacOS Event Logs",
-          "dirName": "exploring-logs",
+          "friendlyName": "Explore macOS Event Logs",
+          "dirName": "explore-macos-event-logs",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -79,8 +79,8 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "Exploring MacOS Event Logs",
-          "dirName": "exploring-logs",
+          "friendlyName": "Explore Windows Event Logs",
+          "dirName": "explore-windows-event-logs",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
