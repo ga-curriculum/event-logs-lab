@@ -23,8 +23,10 @@ courses {
     name = "itb"
     microlessons {
       // Add microlessons here, in the order they should be delivered
-      mls.exploreMacOsEventLogs
-      mls.exploreWindowsEventLogs
+      mls.setup
+      mls.exploreEventLogsMacOs
+      mls.exploreEventLogsWindows
+      mls.exploreEventLogsUbuntu
     }
   }
   new {
@@ -32,8 +34,10 @@ courses {
     name = "fallback"
     microlessons {
       // Add microlessons here, in the order they should be delivered
-      mls.exploreMacOsEventLogs
-      mls.exploreWindowsEventLogs
+      mls.setup
+      mls.exploreEventLogsMacOs
+      mls.exploreEventLogsWindows
+      mls.exploreEventLogsUbuntu
     }
   }
 }

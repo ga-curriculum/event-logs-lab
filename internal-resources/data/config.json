@@ -20,8 +20,8 @@
       "logoUrl": "",
       "microlessons": [
         {
-          "friendlyName": "Explore macOS Event Logs",
-          "dirName": "explore-macos-event-logs",
+          "friendlyName": "Setup",
+          "dirName": "setup",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -30,8 +30,28 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "Explore Windows Event Logs",
-          "dirName": "explore-windows-event-logs",
+          "friendlyName": "Explore Event Logs - macOS",
+          "dirName": "explore-event-logs-macos",
+          "type": "Content",
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
+        },
+        {
+          "friendlyName": "Explore Event Logs - Windows",
+          "dirName": "explore-event-logs-windows",
+          "type": "Content",
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
+        },
+        {
+          "friendlyName": "Explore Event Logs - Ubuntu",
+          "dirName": "explore-event-logs-ubuntu",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -69,8 +89,8 @@
       "logoUrl": "",
       "microlessons": [
         {
-          "friendlyName": "Explore macOS Event Logs",
-          "dirName": "explore-macos-event-logs",
+          "friendlyName": "Setup",
+          "dirName": "setup",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -79,8 +99,28 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "Explore Windows Event Logs",
-          "dirName": "explore-windows-event-logs",
+          "friendlyName": "Explore Event Logs - macOS",
+          "dirName": "explore-event-logs-macos",
+          "type": "Content",
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
+        },
+        {
+          "friendlyName": "Explore Event Logs - Windows",
+          "dirName": "explore-event-logs-windows",
+          "type": "Content",
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
+        },
+        {
+          "friendlyName": "Explore Event Logs - Ubuntu",
+          "dirName": "explore-event-logs-ubuntu",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
