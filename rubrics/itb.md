@@ -1,6 +1,6 @@
 <h1>
   <span class="headline">Event Logs Lab</span>
-  <span class="subh`e`ad">Rubric</span>
+  <span class="subhead">Rubric</span>
 </h1>
 
 ## Lab requirements
