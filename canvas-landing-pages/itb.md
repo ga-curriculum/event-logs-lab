@@ -17,8 +17,8 @@ Start by following the setup instructions. Then, choose the appropriate lab for 
 
 - [Setup](../setup/README.md)
 - [Explore Event Logs - Windows](../explore-event-logs-windows/README.md)
-- [Explore Event Logs - macOS](../explore-event-logs-macOS/README.md)
-- [Explore Event Logs - Ubuntu](../explroe-event-logs-ubuntu/README.md)
+- [Explore Event Logs - macOS](../explore-event-logs-macos/README.md)
+- [Explore Event Logs - Ubuntu](../explore-event-logs-ubuntu/README.md)
 
 ## Rubrics
 
